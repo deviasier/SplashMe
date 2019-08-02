@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Berat</string>
+    <string-array name="sekolah">
+        <item>SMA 11</item>
+        <item>SMA 12</item>
+        <item>SMA 13</item>
+    </string-array>
+    <string name="pilih_suhu">isi suhu</string>
+    <string-array name="jenis_suhu">
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
+
